@@ -1,0 +1,11 @@
+$base-color: #3366cc;
+$border1: 5px solid red;
+
+.component {
+    border: $border1;
+}
+
+.component > span {
+    font-size: 40px;
+    color: $base-color;
+}
