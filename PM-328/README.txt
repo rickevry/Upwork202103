@@ -12,14 +12,17 @@ It uses an in-browser Babel transformer so that Typescript, TSX and React can be
 It also uses a light-weight Sass-module that allows you to use a limited set of Sass.
 
 Don’t worry if this sounds complicated. Everything happens behind the scenes and you only have to 
-can focus on writing Html and CSS.
+focus on writing Html and CSS.
 
 SETUP
 -------------------------------------------------------------------------
-Open Visual Studio Code
+Clone https://github.com/rickevry/Upwork202103.git to your local computer
+Open Visual Studio Code 
+File -> Open Folder ./Upwork202103/PM-328
 Install Live Server (Command Palette -> Install extensions -> Live server)
-Click Go Live (down to the right in VS Code)
+Click Go Live (bottom right in VS Code)
 Open Chrome/Edge/Firefox and load http://127.0.0.1:5500/
+Start working on ./src/Component1.tsx and ./src/Component1.scss
 
 RULES
 -------------------------------------------------------------------------
