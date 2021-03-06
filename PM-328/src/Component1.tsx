@@ -15,6 +15,9 @@ function Component1(props: any) {
             {/* Build component here */}
             {/* You do not have not write React code, normal HTML is also OK */}
             <span>Hello world</span>
+            <div className="smallDiv">
+                A small div
+            </div>
         </div>
     )
 }

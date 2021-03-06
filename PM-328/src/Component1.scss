@@ -1,11 +1,19 @@
 $base-color: #3366cc;
-$border1: 5px solid red;
+$border1: 2px solid red;
 
 .component {
     border: $border1;
+    padding: 10px;
 }
 
 .component > span {
     font-size: 40px;
     color: $base-color;
+}
+
+.component .smallDiv {
+    background-color: green;
+    width: 100px;
+    padding: 5px;
+    color: white;
 }
